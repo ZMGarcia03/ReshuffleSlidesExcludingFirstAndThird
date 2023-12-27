@@ -1,0 +1,6 @@
+1. Open your PowerPoint presentation.
+2. Press Alt + F11 to open the VBA editor.
+3. In the VBA editor, insert a new module by right-clicking on any item in the project explorer, selecting Insert, and then choosing Module.
+4. Copy and paste the VBA code into the module.
+5. Modify the file path in the line ppt.Presentations.Open "C:\Path\To\Your\Presentation.pptx" to point to your actual presentation file.
+6. Run the macro by pressing F5 or selecting Run from the menu.
